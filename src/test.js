@@ -1,4 +1,5 @@
 const test = (value) => {
-    return value
+    return <span>{value}</span>
 }
+
 export default test
